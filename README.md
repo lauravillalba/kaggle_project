@@ -20,7 +20,7 @@ El objetivo de este proyecto es utilizar diferentes modelos que nos ayuden a pre
       - R2_score = 0.88
 
   - Model2:
-      RandomForest: 
+      - RandomForest: 
         Se entrena el modelo de distintas opciones: reduciendo el número de 'features', con todas y variando los parámetros del modelo.
 
   - Model3:
